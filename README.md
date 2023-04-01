@@ -1,4 +1,4 @@
 Git crash course
-Introduction to git 
-Created a sample app for git
+- Introduction to git 
+- Created a sample app for git
 
